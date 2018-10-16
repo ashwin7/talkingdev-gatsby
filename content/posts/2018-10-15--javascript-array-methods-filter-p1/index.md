@@ -89,6 +89,6 @@ Filter Compatibility:
 
 I hope by now you must've thought up some good =uses of filter.
 
-Up Next: _.map()_
+Up Next: <a href="/javascript-array-methods-map-p2/" >_.map()_</a>
 
 Happy Coding!
