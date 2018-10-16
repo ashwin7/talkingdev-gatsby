@@ -1,6 +1,6 @@
 ---
 title: Javascript Array Methods - Part2 - map
-subTitle: Array.prototype.map() - "I chose you"
+subTitle: Array.prototype.map() - "Change one by one"
 category: "Javascript"
 cover: jslogo.jpg
 ---
